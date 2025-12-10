@@ -1,14 +1,3 @@
-<style>
-body {
-    font-family: "Georgia";
-}
-</style>
-<style>
-header, .page-header, .site-header, .navbar {
-    display: none !important;
-}
-</style>
-
 <img src="images/main_header.png" width="75%"><br>
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
