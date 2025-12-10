@@ -28,10 +28,10 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
 - **Links:**
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
-  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) *(if you export to PDF)*<br>
+  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) *(if you export to PDF)*
+
 <img src="images/linebreak.png" width="100%">
 ### 2. Algorithms & Data Structures – Data Structures Comparison (CS-300 Project Two)
-
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
 - **Summary:**  
@@ -43,7 +43,6 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 
 <img src="images/linebreak.png" width="100%">
 ### 3. Databases – Course Planner with MySQL Integration
-
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
 - **Summary:**  
@@ -56,13 +55,10 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <img src="images/linebreak.png" width="100%">
 <img src="images/outcomes_header.png" width="75%"><br>
 This section explains how each artifact supports the CS program outcomes.
-
 - **Software Design & Engineering:**  
   Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.
-
 - **Algorithms & Data Structures:**  
   Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.
-
 - **Databases:**  
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
   
