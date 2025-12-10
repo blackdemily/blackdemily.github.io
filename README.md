@@ -10,7 +10,7 @@ background {
 }
 </style>
 
-# Emily Black's Computer Science ePortfolio
+<img src="images/1.png" alt="Header Banner" width="100%">
 
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
