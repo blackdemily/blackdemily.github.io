@@ -7,7 +7,7 @@ body {
 }
 </style>
 
-<img src="images/main_header.png" width="100%">
+<img src="images/main_header.png" width="75%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
 - Software Design and Engineering  
