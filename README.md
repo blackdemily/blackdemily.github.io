@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td style="text-align:left; vertical-align:middle;">
-      <img src="images/self-assessment.png">
+      <img src="images/self-assessment.png"><br>
 *CS-499 Computer Science Capstone*  
 *Emily Black*
 
