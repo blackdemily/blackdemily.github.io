@@ -1,3 +1,12 @@
+<style>
+h1, h2 {
+    color: #003366;
+}
+body {
+    line-height: 1.6;
+}
+</style>
+
 # Professional Self-Assessment  
 *CS-499 Computer Science Capstone*  
 *Emily Black*
