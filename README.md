@@ -8,7 +8,7 @@
 
 <img src="images/linebreak.png" width="100%"><br>
 
-# Professional Self-Assessment  
+<img src="images/self-assessment.png">
 *CS-499 Computer Science Capstone*  
 *Emily Black*
 
