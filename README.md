@@ -1,5 +1,5 @@
-<img src="images/main_header.png" width="75%"><img src="images/profile_image.png" width="25%" style="float:right; margin-left:20px;">
-Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
+<img src="images/main_header.png" width="75%">
+Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:<img src="images/profile_image.png" width="25%" style="float:right; margin-left:20px;">
 
 - Software Design and Engineering  
 - Algorithms and Data Structures  
