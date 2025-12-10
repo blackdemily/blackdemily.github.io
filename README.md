@@ -4,8 +4,6 @@ h1, h2 {
 }
 body {
     line-height: 1.6;
-    background-image: url('../images/bg.png');
-    background-repeat: repeat;
 }
 </style>
 
