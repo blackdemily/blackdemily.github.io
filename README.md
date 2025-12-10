@@ -2,9 +2,6 @@
 header, .page-header, .site-header, .navbar {
     display: none !important;
 }
-h1, h2 {
-    color: #003366;
-}
 body {
     line-height: 1.6;
 }
