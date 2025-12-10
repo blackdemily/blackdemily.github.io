@@ -9,6 +9,7 @@ background {
     color: #b1e8fd
 }
 </style>
+
 <img src="images/1.png" width="100%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
@@ -20,8 +21,7 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 
 ---
 
-## Artifacts Overview
-
+<img src="images/3.png" width="100%">
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
 
 ### 1. Software Design & Engineering – Course Planner (CS-300)
@@ -63,8 +63,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 
 ---
 
-## Program Outcomes Mapping
-
+<img src="images/4.png" width="100%">
 This section explains how each artifact supports the CS program outcomes.
 
 - **Software Design & Engineering:**  
