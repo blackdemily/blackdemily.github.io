@@ -5,6 +5,9 @@ h1, h2 {
 body {
     line-height: 1.6;
 }
+background {
+    color: #b1e8fd
+}
 </style>
 
 # Emily Black's Computer Science ePortfolio
