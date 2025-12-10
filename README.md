@@ -3,7 +3,7 @@ header, .page-header, .site-header, .navbar {
     display: none !important;
 }
 body {
-    line-height: 1.2;
+    font-name: arial;
 }
 </style>
 
