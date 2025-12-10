@@ -1,9 +1,11 @@
 <style>
-header, .page-header, .site-header, .navbar {
-    display: none !important;
-}
 body {
     font-name: georgia;
+}
+</style>
+<style>
+header, .page-header, .site-header, .navbar {
+    display: none !important;
 }
 </style>
 
