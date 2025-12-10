@@ -21,8 +21,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) 
 
-<img src="images/linebreak.png" width="100%">
-
+<img src="images/linebreak.png" width="100%"><br>
 ### 2. Algorithms & Data Structures – Data Structures Comparison (CS-300 Project Two)
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
@@ -33,8 +32,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
 
-<img src="images/linebreak.png" width="100%">
-
+<img src="images/linebreak.png" width="100%"><br>
 ### 3. Databases – Course Planner with MySQL Integration
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
