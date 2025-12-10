@@ -3,7 +3,7 @@ header, .page-header, .site-header, .navbar {
     display: none !important;
 }
 body {
-    font-name: arial;
+    font-name: georgia;
 }
 </style>
 
