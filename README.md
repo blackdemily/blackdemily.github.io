@@ -59,7 +59,9 @@ You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyB
 
 <img src="images/linebreak.png" width="100%">
 <img src="images/contact_header.png" width="75%">
-
+<p align="center">
+  <img src="images/IMG_4012 - Copy.jpg" width="200" style="border-radius: 50%;">
+</p>
 - **Email:** blackdemily@gmail.com  
 - **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
 
