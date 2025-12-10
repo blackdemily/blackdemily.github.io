@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td style="text-align:left; vertical-align:middle; width="50%">
+    <td style="text-align:left; vertical-align:middle;>
       <img src="images/main_header.png" />
     </td>
-    <td style="text-align:right; vertical-align:middle;">
-      <img src="images/profile_image.png" width="50%"/>
+    <td style="text-align:right;">
+      <img src="images/profile_image.png" width="25%"/>
     </td>
   </tr>
 </table>
