@@ -58,8 +58,8 @@ This section explains how each artifact supports the CS program outcomes.
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
 <img src="images/linebreak.png" width="100%">
-<img src="images/contact_header.png" width="75%">
 <img src="images/profile_image.png" width="25%" style="float:right; margin-left:20px;">
+<img src="images/contact_header.png" width="75%">
 - **Email:** blackdemily@gmail.com  
 - **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
 
