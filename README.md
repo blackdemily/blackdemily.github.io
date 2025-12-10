@@ -1,6 +1,10 @@
-<p align="center"><img src="images/main_header.png"></p>
+<img src="images/main_header.png">
 
-
+<p align="center">
+  <a href="artifacts/software_design.md">
+    <img src="images/main_header.png">
+  </a>
+</p>
 
 <img src="images/linebreak.png" width="100%"><br>
 
