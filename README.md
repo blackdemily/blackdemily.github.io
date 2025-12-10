@@ -1,3 +1,12 @@
+<style>
+h1, h2 {
+    color: #003366;
+}
+body {
+    line-height: 1.6;
+}
+</style>
+
 # Emily Black's Computer Science ePortfolio
 
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
