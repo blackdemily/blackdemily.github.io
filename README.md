@@ -66,11 +66,11 @@ This section explains how each artifact supports the CS program outcomes.
 
 - **Databases:**  
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
+  
 <img src="images/linebreak.png" width="100%">
 <img src="images/resume.png" width="100%">
-You can view or download my resume here:
+You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
-- [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 <img src="images/linebreak.png" width="100%">
 <img src="images/contact.png" width="100%">
 - **Email:** blackdemily@gmail.com  
