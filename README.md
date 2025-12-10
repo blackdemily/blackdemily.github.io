@@ -34,7 +34,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) *(if you export to PDF)*
 
----
+<img src="images/linebreak.png" width="100%">
 
 ### 2. Algorithms & Data Structures – Data Structures Comparison (CS-300 Project Two)
 
@@ -47,7 +47,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
 
----
+<img src="images/linebreak.png" width="100%">
 
 ### 3. Databases – Course Planner with MySQL Integration
 
@@ -60,7 +60,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)
   - [Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)
 
----
+<img src="images/linebreak.png" width="100%">
 
 <img src="images/4.png" width="100%">
 This section explains how each artifact supports the CS program outcomes.
@@ -74,7 +74,7 @@ This section explains how each artifact supports the CS program outcomes.
 - **Databases:**  
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
 
----
+<img src="images/linebreak.png" width="100%">
 
 ## Resume
 
@@ -82,7 +82,7 @@ You can view or download my resume here:
 
 - [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
----
+<img src="images/linebreak.png" width="100%">
 
 ## Contact
 
