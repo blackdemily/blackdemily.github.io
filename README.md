@@ -15,7 +15,8 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 - Databases  
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
-<img src="images/linebreak.png" width="75%"><br>
+
+<img src="images/linebreak.png" width="100%">
 <img src="images/artifacts_header.png" width="75%"><br>
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
 
@@ -30,7 +31,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) *(if you export to PDF)*
     
-<img src="images/linebreak.png" width="75%"><br>
+<img src="images/linebreak.png" width="100%">
 ### 2. Algorithms & Data Structures – Data Structures Comparison (CS-300 Project Two)
 
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
@@ -42,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
 
-<img src="images/linebreak.png" width="75%"><br>
+<img src="images/linebreak.png" width="100%">
 ### 3. Databases – Course Planner with MySQL Integration
 
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
@@ -54,7 +55,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)
   - [Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)
     
-<img src="images/linebreak.png" width="75%"><br>
+<img src="images/linebreak.png" width="100%">
 <img src="images/outcomes_header.png" width="75%"><br>
 This section explains how each artifact supports the CS program outcomes.
 
@@ -67,11 +68,11 @@ This section explains how each artifact supports the CS program outcomes.
 - **Databases:**  
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
   
-<img src="images/linebreak.png" width="75%"><br>
+<img src="images/linebreak.png" width="100%">
 <img src="images/resume_header.png" width="75%"><br>
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
-<img src="images/linebreak.png" width="75%"><br>
+<img src="images/linebreak.png" width="100%">
 <img src="images/contact_header.png" width="75%"><br>
 - **Email:** blackdemily@gmail.com  
 - **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
