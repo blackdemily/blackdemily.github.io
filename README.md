@@ -19,7 +19,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 
----
+<img src="images/linebreak.png" width="100%">
 
 <img src="images/3.png" width="100%">
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
