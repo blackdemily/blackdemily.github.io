@@ -1,4 +1,4 @@
-<img src="images/main_header.png">
+<img src="images/main-header.png">
 
 <p align="center">
   <a href="artifacts/software_design.md">
