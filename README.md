@@ -1,6 +1,6 @@
 <style>
 body {
-    font-name: georgia;
+    font-family: "Georgia";
 }
 </style>
 <style>
