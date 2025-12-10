@@ -4,7 +4,7 @@
       <img src="images/main_header.png" width="75%" />
     </td>
     <td style="text-align:right;">
-      <img src="images/profile_image.jpg" width="25%" />
+      <img src="images/profile_image.png" width="25%" />
     </td>
   </tr>
 </table>
