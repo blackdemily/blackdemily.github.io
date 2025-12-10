@@ -7,7 +7,7 @@ body {
 }
 </style>
 
-<img src="images/mainheader.png" width="100%">
+<img src="images/main_header.png" width="100%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
 - Software Design and Engineering  
@@ -16,7 +16,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 <img src="images/linebreak.png" width="100%">
-<img src="images/artifacts.png" width="100%">
+<img src="images/artifacts_header.png" width="100%">
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
 
 ### 1. Software Design & Engineering – Course Planner (CS-300)
@@ -55,7 +55,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)
     
 <img src="images/linebreak.png" width="100%">
-<img src="images/outcomes.png" width="100%">
+<img src="images/outcomes_header.png" width="100%">
 This section explains how each artifact supports the CS program outcomes.
 
 - **Software Design & Engineering:**  
@@ -68,11 +68,11 @@ This section explains how each artifact supports the CS program outcomes.
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
   
 <img src="images/linebreak.png" width="100%">
-<img src="images/resume.png" width="100%">
+<img src="images/resume_header.png" width="100%">
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
 <img src="images/linebreak.png" width="100%">
-<img src="images/contact.png" width="100%">
+<img src="images/contact_header.png" width="100%">
 - **Email:** blackdemily@gmail.com  
 - **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
 
