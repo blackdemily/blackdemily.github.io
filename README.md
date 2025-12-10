@@ -28,7 +28,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
 - **Links:**
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
-  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) *(if you export to PDF)*
+  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf) 
 
 <img src="images/linebreak.png" width="100%">
 ### 2. Algorithms & Data Structures – Data Structures Comparison (CS-300 Project Two)
