@@ -15,7 +15,7 @@
   <a href="artifacts/databases.md">
     DATABASES
   </a>
-
+<br>
 <img src="images/linebreak.png" width="100%">
 <img src="images/main-header.png">
 
@@ -95,7 +95,3 @@ You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyB
 <p align="center"><img src="images/contact-header.png"><br>
 <br>
 <b>Email:</b> blackdemily@gmail.com | <b>LinkedIn:</b> https://www.linkedin.com/in/blackdemily</p>
-<br>
-<br>
-<p align="center"><img src="images/thank-you.png"><br></p>
-
