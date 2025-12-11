@@ -1,6 +1,6 @@
 <p align="center"><img src="images/self-assessment.png"></p>
-*CS-499 Computer Science Capstone*  
-*Emily Black*
+<em>CS-499 Computer Science Capstone</em>
+<em></em>Emily Black</em>
 
 Throughout my academic journey in the Computer Science program at Southern New Hampshire University, I have grown significantly both technically and professionally. When I began the program, I expected to pursue software engineering or full-stack development. However, as I progressed, especially after excelling in Applied Statistics I and II, I discovered my strengths and passions lie in data-focused roles. I deeply enjoy analyzing information, uncovering insights, and helping others make informed decisions. This led me to pursue a long-term career goal of becoming a **Business Intelligence Analyst**, a role that blends analytical reasoning with organizational impact.
 
