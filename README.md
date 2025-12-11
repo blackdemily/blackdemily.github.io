@@ -43,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <ul>
    <li><b>Artifact:</b> Refactored Course Planner application</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>
-   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (<code>`Course`</code>), data access (`CourseRepository`), service logic (<code>`CourseService`</code>), and user interface (<code>`MenuUI`</code>). This refactor improves readability, maintainability, and scalability.</li>
+   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (<code>`Course`</code>), data access (`CourseRepository`), service logic (<code>CourseService</code>), and user interface (<code>`MenuUI`</code>). This refactor improves readability, maintainability, and scalability.</li>
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
