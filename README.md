@@ -68,7 +68,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <ul>
    <li><b>Artifact:</b> Course Planner with MySQL database support (CS-300 enhanced in CS-499)</li> 
    <li><b>Original Course:</b> CS-300: Data Structures & Algorithms</li>
-   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A <code>`courses`</code> table stores <code>`course_id`</code>, <code>`title`</code>, and <code>`prereqs`</code>. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
+   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A <code>courses</code> table stores <code>course_id</code>, <code>title</code>, and <code>prereqs</code>. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
    <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
    <li><b>Links:</b></li>
       <ul>
