@@ -31,7 +31,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
    <li>Databases</li>
 </ul>
 
-It also connects these artifacts to my long-term goals as an aspiring <b>Data Analyst</b> and <b>Business Intelligence Analyst</b>.
+It also connects these artifacts to my long-term goals as an aspiring <b>Data Analyst</b> and <b>Business Intelligence Analyst</b>.<br>
 <br>
 <p align="center"><img src="images/artifacts-header.png"><br></p>
 
