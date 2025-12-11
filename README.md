@@ -20,13 +20,14 @@
   </a>
 <br>
 <br>
+<img src="images/linebreak.png" width="100%">
 <img src="images/main-header.png">
 
 <img src="images/profile-image.png">
 
 Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 
-<img src="images/linebreak.png" width="100%"><br>
+<img src="images/linebreak.png" width="100%">
 
 <p align="center"><img src="images/self-assessment.png"></p>
 *CS-499 Computer Science Capstone*  
