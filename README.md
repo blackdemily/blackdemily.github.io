@@ -37,7 +37,6 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 <p align="center"><img src="images/artifacts-header.png"><br></p>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
-<br>
 
 <p align="center"><img src="images/artifact1.png"></p><br>
 - **Artifact:** Refactored Course Planner application  
@@ -48,7 +47,6 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Links:**
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)  
-<br>
 
 <p align="center"><img src="images/artifact2.png"></p><br>
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
@@ -59,7 +57,6 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Links:**
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
-<br>
 
 <p align="center"><img src="images/artifact3.png"></p><br>
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
