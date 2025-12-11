@@ -77,7 +77,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
       </ul>
    </li>
   </ul>
-    
+ <br>   
 <p align="center"><img src="images/outcomes-header.png"><br></p>
 This section explains how each artifact supports the CS program outcomes:<br>
 <br>
