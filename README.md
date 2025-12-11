@@ -22,7 +22,6 @@
     DATABASES
   </a>
 <br>
-<br>
 <img src="images/linebreak.png" width="100%">
 <img src="images/main-header.png">
 
