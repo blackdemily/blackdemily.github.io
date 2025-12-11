@@ -24,6 +24,7 @@
 Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 <br>
 <img src="images/linebreak.png" width="100%">
+
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:
 
 - Software Design and Engineering  
@@ -31,10 +32,13 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 - Databases  
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
+
 <img src="images/linebreak.png" width="100%">
 <p align="center"><img src="images/artifacts-header.png"><br></p>
+
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 <br>
+
 <p align="center"><img src="images/artifact1.png"></p><br>
 - **Artifact:** Refactored Course Planner application  
 - **Original Course:** CS-300: Data Structures and Algorithms  
@@ -45,6 +49,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)  
 <br>
+
 <p align="center"><img src="images/artifact2.png"></p><br>
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
@@ -55,6 +60,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
 <br>
+
 <p align="center"><img src="images/artifact3.png"></p><br>
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
