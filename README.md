@@ -2,6 +2,8 @@
 
 <p align="center"><img src="images/profile-image.png"/></p>
 
+<p align="center">Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
+
 <p align="center">
   <a href="artifacts/software_design.md">
     <img src="images/main_header.png">
@@ -9,8 +11,6 @@
 </p>
 
 <img src="images/linebreak.png" width="100%"><br>
-
-<p align="center">Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 
 <p align="center"><img src="images/self-assessment.png"></p><br>
 *CS-499 Computer Science Capstone*  
