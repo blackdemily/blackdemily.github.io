@@ -88,7 +88,6 @@ This section explains how each artifact supports the CS program outcomes:<br>
 </ul>
 
 <img src="images/linebreak.png" width="100%">
-
 <p align="center"><img src="images/resume-header.png"><br>
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)<br></p>
 <img src="images/linebreak.png" width="100%"><br>
