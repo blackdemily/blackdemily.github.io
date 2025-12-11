@@ -50,7 +50,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
       </ul>
    </li>
   </ul>
-<p align="center"><img src="images/artifact2.png"></p><br>
+<p align="center"><img src="images/artifact2.png"></p>
 <ul>
    <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>  
@@ -64,7 +64,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    </li>
   </ul>
 
-<p align="center"><img src="images/artifact3.png"></p><br>
+<p align="center"><img src="images/artifact3.png"></p>
 <ul>
    <li><b>Artifact:</b> Course Planner with MySQL database support (CS-300 enhanced in CS-499)</li> 
    <li><b>Original Course:</b> CS-300: Data Structures & Algorithms</li>
@@ -80,13 +80,12 @@ Below are the three main enhanced artifacts aligned with the capstone categories
     
 <p align="center"><img src="images/outcomes-header.png"><br></p>
 This section explains how each artifact supports the CS program outcomes.
-- **Software Design & Engineering:**  
-  Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.
-- **Algorithms & Data Structures:**  
-  Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.
-- **Databases:**  
-  Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
-  
+<ul>
+   <li><b>Software Design & Engineering:</b> Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.</li>
+   <li><b>Algorithms & Data Structures:</b> Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.</li>
+   <li><b>Databases:**</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.</li>
+</ul>
+
 <p align="center"><img src="images/resume-header.png"><br></p>
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
