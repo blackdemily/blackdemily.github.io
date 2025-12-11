@@ -32,7 +32,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 <img src="images/linebreak.png" width="100%">
-<img src="images/artifacts-header.png" width="75%"><br>
+<img src="images/artifacts-header.png"><br>
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
 <br>
 <p align="center"><img src="images/artifact1.png"></p><br>
@@ -65,7 +65,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   - [Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)
   - [Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)
     
-<img src="images/outcomes-header.png"><br>
+<p align="center"><img src="images/outcomes-header.png"><br></p>
 This section explains how each artifact supports the CS program outcomes.
 - **Software Design & Engineering:**  
   Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.
@@ -74,10 +74,10 @@ This section explains how each artifact supports the CS program outcomes.
 - **Databases:**  
   Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
   
-<img src="images/resume-header.png"><br>
+<p align="center"><img src="images/resume-header.png"><br></p>
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
 
-<img src="images/contact_header.png" width="75%">
+<p align="center"><img src="images/contact-header.png"></p>
 - **Email:** blackdemily@gmail.com  
 - **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
 
