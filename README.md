@@ -37,7 +37,7 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 
-<p align="center"><img src="images/artifact1.png"></p><br>
+<p align="center"><img src="images/artifact1.png"></p>
 <ul>
    <li><b>Artifact:</b> Refactored Course Planner application</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>
