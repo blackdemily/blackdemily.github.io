@@ -52,8 +52,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
-   <li>[Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)</li>
-   <li>[Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)</li>
+   <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
+   <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
       </ul>
   </ul>
   <br>
