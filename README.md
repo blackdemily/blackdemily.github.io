@@ -94,6 +94,7 @@ You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyB
 <ul>
    <li><b>Email:</b> blackdemily@gmail.com</li>
    <li><b>LinkedIn:</b> linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)</li><br>
+</ul>
 <br>
-Thank you for reviewing my CS-499 ePortfolio!
+<p align="center"><img src="images/thank-you.png"><br></p>
 
