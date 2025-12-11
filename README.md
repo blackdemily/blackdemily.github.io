@@ -20,17 +20,18 @@
 <img src="images/main-header.png">
 
 <p align="center"><img src="images/profile-image.png"><br>
-
+<br>
 Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
-
+<br>
 <p align="center"><img src="images/self-assessment.png"></p>
+
 *CS-499 Computer Science Capstone*  
 *Emily Black*
 
 Throughout my academic journey in the Computer Science program at Southern New Hampshire University, I have grown significantly both technically and professionally. When I began the program, I expected to pursue software engineering or full-stack development. However, as I progressed, especially after excelling in Applied Statistics I and II, I discovered my strengths and passions lie in data-focused roles. I deeply enjoy analyzing information, uncovering insights, and helping others make informed decisions. This led me to pursue a long-term career goal of becoming a **Business Intelligence Analyst**, a role that blends analytical reasoning with organizational impact.
 
 The capstone enhancements showcased in this ePortfolio demonstrate my mastery of the five Computer Science Program Outcomes and reflect the culmination of everything I have learned throughout my degree. Revisiting previous coursework, redesigning artifacts, and applying feedback allowed me to grow into a more intentional and capable computing professional.<br>
-
+<br>
 <p align="center"><img src="images/outcome1.png"></p>
 I strengthened my collaboration and communication skills throughout the program and during the capstone. In **Milestone One**, I performed a detailed code review that required analyzing another developer’s work, identifying improvement opportunities, and articulating recommendations clearly. This experience reflects the ability to contribute to team-based problem-solving and support organizational goals, which is central to Outcome 1.<br>
 <br>
