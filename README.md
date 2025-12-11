@@ -38,15 +38,18 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 
 <p align="center"><img src="images/artifact1.png"></p><br>
-- <b>Artifact:</b> Refactored Course Planner application<br>
-- <b>Original Course:</b> CS-300: Data Structures and Algorithms<br>
-- <b>Summary:</b><br> 
-     The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.<br>
-- <b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.<br>
-- <b>Links:</b><br>
-   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)<br>
-   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)<br>
-  
+<ul>
+   <li><b>Artifact:</b> Refactored Course Planner application</li>
+   <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>
+   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.</li>
+   <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
+   <li><b>Links:</b></li>
+      <ul>
+   <li>[Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)</li>
+   <li>[Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)</li>
+      </ul>
+   </li>
+  </ul>
 <p align="center"><img src="images/artifact2.png"></p><br>
 <ul>
    <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
@@ -62,14 +65,18 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   </ul>
 
 <p align="center"><img src="images/artifact3.png"></p><br>
-- **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
-- **Original Course:** CS-300: Data Structures and Algorithms  
-- **Summary:**  
-  For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A `courses` table stores `course_id`, `title`, and `prereqs`. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.
-- **Outcome Focus:** Databases, relational schema design, secure parameterized queries, and data access integration.
-- **Links:**
-  - [Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)
-  - [Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)
+<ul>
+   <li><b>Artifact:</b> Course Planner with MySQL database support (CS-300 enhanced in CS-499)</li> 
+   <li><b>Original Course:</b> CS-300: Data Structures & Algorithms</li>
+   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A `courses` table stores `course_id`, `title`, and `prereqs`. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
+   <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
+   <li><b>Links:</b></li>
+      <ul>
+         <li>[Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)</li>
+         <li>[Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)</li>
+      </ul>
+   </li>
+  </ul>
     
 <p align="center"><img src="images/outcomes-header.png"><br></p>
 This section explains how each artifact supports the CS program outcomes.
