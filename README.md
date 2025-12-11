@@ -36,7 +36,7 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 <p align="center"><img src="images/artifacts-header.png"><br></p>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
-  
+
 <p align="center"><img src="images/artifact1.png"></p><br>
 - **Artifact:** Refactored Course Planner application  
 - **Original Course:** CS-300: Data Structures and Algorithms  
@@ -46,7 +46,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Links:**
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)  
-
+  
 <p align="center"><img src="images/artifact2.png"></p><br>
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
 - **Original Course:** CS-300: Data Structures and Algorithms  
