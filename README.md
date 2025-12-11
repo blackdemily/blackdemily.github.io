@@ -53,9 +53,12 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>  
    <li><b>Summary:</b> This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.</li>
    <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
-   <li><b>Links:</b></li>
-      <li>[Enhanced Source Code / Report](./artifacts/algorithms.md)</li>
-      <li>[Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)</li>
+   <li><b>Links:</b>
+      <ul>
+         <li>[Enhanced Source Code / Report](./artifacts/algorithms.md)</li>
+         <li>[Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)</li>
+      </ul>
+   </li>
   </ul>
 
 <p align="center"><img src="images/artifact3.png"></p><br>
