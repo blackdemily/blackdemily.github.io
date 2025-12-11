@@ -3,7 +3,6 @@
   <a href="README.md">
     HOME
   </a>
-
 |
 
   <!-- Software Design & Engineering -->
