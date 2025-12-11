@@ -96,7 +96,7 @@ This section explains how each artifact supports the CS program outcomes:<br>
 <img src="images/linebreak.png" width="100%">
 <p align="center"><img src="images/resume-header.png"><br>
 <br>
-You can view or download my resume here: <a href="EBlack_MasterResume">Emily Black's Resume</a><br></p>
+You can view or download my resume here: <a href="EBlack_Master Resume_11.12.2025.pdf">Emily Black's Resume</a><br></p>
 <img src="images/linebreak.png" width="100%">
 <p align="center"><img src="images/contact-header.png"><br>
 <br>
