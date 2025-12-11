@@ -79,7 +79,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   </ul>
     
 <p align="center"><img src="images/outcomes-header.png"><br></p>
-This section explains how each artifact supports the CS program outcomes.
+This section explains how each artifact supports the CS program outcomes.<br>
 <br>
 <ul>
    <li><b>Software Design & Engineering:</b> Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.</li>
