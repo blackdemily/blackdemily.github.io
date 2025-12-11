@@ -35,8 +35,7 @@ It also connects these artifacts to my long-term goals as an aspiring <b>Data An
 <br>
 <p align="center"><img src="images/artifacts-header.png"><br></p>
 
-Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
-<br>
+Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.<br>
 <br>
 <p align="center"><img src="images/artifact1.png"></p>
 <ul>
