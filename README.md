@@ -88,16 +88,13 @@ This section explains how each artifact supports the CS program outcomes:<br>
 </ul>
 
 <img src="images/linebreak.png" width="100%"><br>
-<p align="center"><img src="images/resume-header.png"><br></p>
-You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)<br>
+<p align="center"><img src="images/resume-header.png"><br>
+You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)<br></p>
 <br>
 
 <img src="images/linebreak.png" width="100%"><br>
-<p align="center"><img src="images/contact-header.png"></p>
-<ul>
-   <li><b>Email:</b> blackdemily@gmail.com</li>
-   <li><b>LinkedIn:</b> linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)</li>
-</ul>
+<p align="center"><img src="images/contact-header.png">
+<b>Email:</b> blackdemily@gmail.com | <b>LinkedIn:</b> linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)</p>
 
 <p align="center"><img src="images/thank-you.png"><br></p>
 
