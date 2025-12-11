@@ -1,24 +1,24 @@
 <p align="center">
    <!-- Professional Self-Assessment -->
-  <a href="professional_self_assessment.md">
+  <a href="professional_self_assessment.html">
     PROFESSIONAL SELF-ASSESSMENT
   </a>
 |
    
    <!-- Software Design & Engineering -->
-  <a href="artifacts/software_design.md">
+  <a href="artifacts/software_design.html">
     SOFTWARE DESIGN & ENGINEERING
   </a>
 |
 
   <!-- Algorithms & Data Structures -->
-  <a href="artifacts/algorithms.md">
+  <a href="artifacts/algorithms.html">
     DATA STRUCTURES & ALGORITHMS
   </a>
 |
 
   <!-- Databases -->
-  <a href="artifacts/databases.md">
+  <a href="artifacts/databases.html">
     DATABASES
   </a>
 <br>
