@@ -1,11 +1,5 @@
 <p align="center">
-  <!-- Home -->
-  <a href="README.md">
-    HOME
-  </a>
-|
-
-  <!-- Software Design & Engineering -->
+   <!-- Software Design & Engineering -->
   <a href="artifacts/software_design.md">
     SOFTWARE DESIGN & ENGINEERING
   </a>
