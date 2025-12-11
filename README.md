@@ -32,7 +32,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
    <li>Databases</li>
 </ul>
 
-It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
+It also connects these artifacts to my long-term goals as an aspiring <b>Data Analyst</b> and <b>Business Intelligence Analyst</b>.
 
 <img src="images/linebreak.png" width="100%">
 <p align="center"><img src="images/artifacts-header.png"><br></p>
@@ -43,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <ul>
    <li><b>Artifact:</b> Refactored Course Planner application</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>
-   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (<code>`Course`</code>), data access (`CourseRepository`), service logic (<code>CourseService</code>), and user interface (<code>`MenuUI`</code>). This refactor improves readability, maintainability, and scalability.</li>
+   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (<code>Course</code>), data access (<code>CourseRepository</code>), service logic (<code>CourseService</code>), and user interface (<code>MenuUI</code>). This refactor improves readability, maintainability, and scalability.</li>
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
