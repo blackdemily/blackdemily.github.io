@@ -23,7 +23,6 @@
 <br>
 Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 <br>
-<img src="images/linebreak.png" width="100%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:<br>  
 <br>
 <ul>
@@ -88,9 +87,12 @@ This section explains how each artifact supports the CS program outcomes:<br>
    <li><b>Databases:</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.</li>
 </ul>
 
+<img src="images/linebreak.png" width="100%"><br>
 <p align="center"><img src="images/resume-header.png"><br></p>
 You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)<br>
 <br>
+
+<img src="images/linebreak.png" width="100%"><br>
 <p align="center"><img src="images/contact-header.png"></p>
 <ul>
    <li><b>Email:</b> blackdemily@gmail.com</li>
