@@ -50,7 +50,6 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li>[Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)</li>
    <li>[Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)</li>
       </ul>
-   </li>
   </ul>
 <p align="center"><img src="images/artifact2.png"></p>
 <ul>
