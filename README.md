@@ -26,9 +26,11 @@ Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at 
 <img src="images/linebreak.png" width="100%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:<br>  
 <br>
-- Software Design and Engineering  
-- Algorithms and Data Structures  
-- Databases  
+<ul>
+   <li>Software Design and Engineering</li>
+   <li>Algorithms and Data Structures</li>
+   <li>Databases</li>
+</ul>
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 
@@ -41,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <ul>
    <li><b>Artifact:</b> Refactored Course Planner application</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>
-   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.</li>
+   <li><b>Summary:</b> The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (<code>`Course`</code>), data access (`CourseRepository`), service logic (<code>`CourseService`</code>), and user interface (<code>`MenuUI`</code>). This refactor improves readability, maintainability, and scalability.</li>
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
@@ -68,7 +70,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <ul>
    <li><b>Artifact:</b> Course Planner with MySQL database support (CS-300 enhanced in CS-499)</li> 
    <li><b>Original Course:</b> CS-300: Data Structures & Algorithms</li>
-   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A `courses` table stores `course_id`, `title`, and `prereqs`. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
+   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A <code>`courses`</code> table stores <code>`course_id`</code>, <code>`title`</code>, and <code>`prereqs`</code>. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
    <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
    <li><b>Links:</b></li>
       <ul>
