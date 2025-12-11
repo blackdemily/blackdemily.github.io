@@ -38,7 +38,7 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 
 <p align="center"><img src="images/artifact1.png"></p><br>
-- <b>Artifact:</b> Refactored Course Planner application  
+- <b>Artifact:</b> Refactored Course Planner application<br>
 - <b>Original Course:</b> CS-300: Data Structures and Algorithms  
 - <b>Summary:</b>  
   The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.
