@@ -48,14 +48,15 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)<br>
   
 <p align="center"><img src="images/artifact2.png"></p><br>
-- <b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)  
-- <b>Original Course:</b> CS-300: Data Structures and Algorithms  
-- <b>Summary:</b>  
-  This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
-- <b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.
-- <b>Links:</b>
-  - [Enhanced Source Code / Report](./artifacts/algorithms.md)
-  - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
+<ul>
+   <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
+   <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>  
+   <li><b>Summary:</b> This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.</li>
+   <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
+   <li><b>Links:</b></li>
+      <li>[Enhanced Source Code / Report](./artifacts/algorithms.md)</li>
+      <li>[Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)</li>
+  </ul>
 
 <p align="center"><img src="images/artifact3.png"></p><br>
 - **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499)  
