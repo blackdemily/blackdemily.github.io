@@ -1,6 +1,6 @@
 <p align="center">
    <!-- Professional Self-Assessment -->
-  <a href="artifacts/self_assessment.md">
+  <a href="self_assessment.md">
     PROFESSIONAL SELF-ASSESSMENT
   </a>
 |
