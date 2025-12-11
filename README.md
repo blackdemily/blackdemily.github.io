@@ -28,7 +28,7 @@ Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at 
 
 <img src="images/linebreak.png" width="100%"><br>
 
-<img src="images/self-assessment.png"><br></p>
+<img src="images/self-assessment.png"></p><br>
 *CS-499 Computer Science Capstone*  
 *Emily Black*
 
