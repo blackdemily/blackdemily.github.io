@@ -33,7 +33,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 <img src="images/linebreak.png" width="100%">
 <p align="center"><img src="images/artifacts-header.png"><br></p>
-Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
+Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 <br>
 <p align="center"><img src="images/artifact1.png"></p><br>
 - **Artifact:** Refactored Course Planner application  
@@ -43,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
 - **Links:**
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
-  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)
+  - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)  
 <br>
 <p align="center"><img src="images/artifact2.png"></p><br>
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)  
