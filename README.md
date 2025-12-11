@@ -24,8 +24,8 @@
 Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 <br>
 <img src="images/linebreak.png" width="100%">
-Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:  
-
+Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:<br>  
+<br>
 - Software Design and Engineering  
 - Algorithms and Data Structures  
 - Databases  
@@ -79,7 +79,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
   </ul>
     
 <p align="center"><img src="images/outcomes-header.png"><br></p>
-This section explains how each artifact supports the CS program outcomes.<br>
+This section explains how each artifact supports the CS program outcomes:<br>
 <br>
 <ul>
    <li><b>Software Design & Engineering:</b> Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.</li>
@@ -88,11 +88,12 @@ This section explains how each artifact supports the CS program outcomes.<br>
 </ul>
 
 <p align="center"><img src="images/resume-header.png"><br></p>
-You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)
-
+You can view or download my resume here: [Download Resume (PDF)](./resume/EmilyBlack_Resume.pdf)<br>
+<br>
 <p align="center"><img src="images/contact-header.png"></p>
-- **Email:** blackdemily@gmail.com  
-- **LinkedIn:** [linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)
+<ul>
+   <li><b>Email:</b> blackdemily@gmail.com</li>
+   <li><b>LinkedIn:**</b> linkedin.com/in/blackdemily](https://www.linkedin.com/in/blackdemily)</li>
 
 Thank you for reviewing my CS-499 ePortfolio!
 
