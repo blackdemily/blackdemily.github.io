@@ -76,7 +76,6 @@ Below are the three main enhanced artifacts aligned with the capstone categories
          <li>[Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)</li>
          <li>[Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)</li>
       </ul>
-   </li>
   </ul>
  <br>   
 <p align="center"><img src="images/outcomes-header.png"><br></p>
