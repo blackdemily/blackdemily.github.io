@@ -1,4 +1,10 @@
 <p align="center">
+   <!-- Professional Self-Assessment -->
+  <a href="artifacts/self_assessment.md">
+    PROFESSIONAL SELF-ASSESSMENT
+  </a>
+|
+   
    <!-- Software Design & Engineering -->
   <a href="artifacts/software_design.md">
     SOFTWARE DESIGN & ENGINEERING
