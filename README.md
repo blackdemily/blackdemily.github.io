@@ -1,22 +1,28 @@
 <p align="center">
   <!-- Home -->
   <a href="README.md">
-    HOME | 
+    HOME
   </a>
+
+|
 
   <!-- Software Design & Engineering -->
   <a href="artifacts/software_design.md">
-    <img src="images/sde.png">
+    SOFTWARE DESIGN & ENGINEERING
   </a>
+
+|
 
   <!-- Algorithms & Data Structures -->
   <a href="artifacts/algorithms.md">
-    <img src="images/ads.png">
+    DATA STRUCTURES & ALGORITHMS
   </a>
+
+|
 
   <!-- Databases -->
   <a href="artifacts/databases.md">
-    <img src="images/d.png">
+    DATABASES
   </a>
 
 <img src="images/linebreak.png" width="100%">
