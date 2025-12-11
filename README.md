@@ -9,14 +9,12 @@
   <a href="artifacts/software_design.md">
     SOFTWARE DESIGN & ENGINEERING
   </a>
-
 |
 
   <!-- Algorithms & Data Structures -->
   <a href="artifacts/algorithms.md">
     DATA STRUCTURES & ALGORITHMS
   </a>
-
 |
 
   <!-- Databases -->
