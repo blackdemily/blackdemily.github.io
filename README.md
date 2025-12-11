@@ -38,22 +38,22 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 
 <p align="center"><img src="images/artifact1.png"></p><br>
-- <em>Artifact:</em> Refactored Course Planner application  
-- <em>Original Course:</em> CS-300: Data Structures and Algorithms  
-- <em>Summary:</em>  
+- <b>Artifact:</b> Refactored Course Planner application  
+- <b>Original Course:</em> CS-300: Data Structures and Algorithms  
+- <b>Summary:</b>  
   The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.
-- **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
-- <em>Links:</em>
+- <b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.
+- <b>Links:</b>
   - [Enhanced Source Code (GitHub folder or ZIP)](./artifacts/software_design.md)
   - [Milestone Narrative – Software Design](./artifacts/software_design_narrative.pdf)  
   
 <p align="center"><img src="images/artifact2.png"></p><br>
-- <em>Artifact:</em> Data structures performance comparison (vector, hash table, binary search tree)  
-- <em>Original Course:</em> CS-300: Data Structures and Algorithms  
-- <em>Summary:</em>  
+- <b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)  
+- <b>Original Course:</b> CS-300: Data Structures and Algorithms  
+- <b>Summary:</b>  
   This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
-- <em>Outcome Focus:</em> Algorithmic thinking, time complexity, and choosing appropriate data structures.
-- <em>Links:</em>
+- <b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.
+- <b>Links:</b>
   - [Enhanced Source Code / Report](./artifacts/algorithms.md)
   - [Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)
 
