@@ -7,11 +7,11 @@
 
 <img src="images/linebreak.png">
 
-<img src="images/main-header.png">
+<p align="center"><img src="images/main-header.png"><p align="center">
 
-<p align="center"><img src="images/profile-image.png"><br>
+<p align="center"><img src="images/profile-image.png"></p><br>
 <br>
-Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
+<p align="center">Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 <img src="images/linebreak.png" width="100%">
 Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showcases my enhanced artifacts, reflections, and mastery of the program outcomes, including:<br>
 <br>
@@ -77,7 +77,7 @@ This section explains how each artifact supports the CS program outcomes:<br>
    <li><b>Databases:</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the <code>courses</code> table, and dynamic loading/saving of course data.</li>
 </ul>
 
-<img src="images/linebreak.png" width="100%">
+<img src="images/linebreak.png">
 <p align="center"><img src="images/contact-header.png"><BR>
 <br>
 <a href="mailto:blackdemily@gmail.com">EMAIL</a> | <a href="https://www.linkedin.com/in/blackdemily">LINKEDIN</a></p>
