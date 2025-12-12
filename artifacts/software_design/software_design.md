@@ -43,5 +43,5 @@ This artifact primarily supports the **Software Design & Engineering** program o
 <img src="../../images/supporting-materials-head.png">  
 
 - [View Original Course Planner Source Code (CS-300)](original/EBlack_CS-300_ProjectTwo.cpp)
-- [View Enhanced Course Planner Source Code (CS-499)](enhanced/)
+- [View Enhanced Course Planner Source Code (CS-499)](enhanced/EBlack_Enhanced_CS-300_ProjectTwo.cpp)
 - [Read Software Design Enhancement Narrative (Milestone Two)](../../files/milestone_two.pdf)
