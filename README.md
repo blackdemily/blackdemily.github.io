@@ -31,12 +31,12 @@ Throughout my academic journey in the Computer Science program at Southern New H
   
 The capstone enhancements showcased in this ePortfolio demonstrate my mastery of the five Computer Science Program Outcomes and reflect the culmination of everything I have learned throughout my degree. Revisiting previous coursework, redesigning artifacts, and applying feedback allowed me to grow into a more intentional and capable computing professional.  
 <br>
-
 <div align="center"><img src="images/outcome1.png"></div>
+
 I strengthened my collaboration and communication skills throughout the program and during the capstone. In **Milestone One**, I performed a detailed code review that required analyzing another developer’s work, identifying improvement opportunities, and articulating recommendations clearly. This experience reflects the ability to contribute to team-based problem-solving and support organizational goals, which is central to Outcome 1.  
 <br>
-
 <div align="center"><img src="images/outcome2.png"></div>
+
 Professional communication was demonstrated through written enhancement narratives, UML diagrams, and my recorded screencast review. Explaining software architecture decisions, algorithmic trade-offs, and database integration strategies reinforced my ability to communicate technical information to both technical and non-technical audiences. This ePortfolio is also intentionally structured to demonstrate clarity, organization, and professionalism.  
 <br>
 <div align="center"><img src="images/outcome3.png"></div>
@@ -47,7 +47,6 @@ I demonstrated my understanding of algorithmic design and evaluation by enhancin
 
 A major artifact in this ePortfolio is the redesigned **Course Planner** application. I transformed it from a single-file program into a modular, multi-layered, object-oriented application. Later, I expanded it further by integrating a relational **MySQL database** using MySQL Connector/C++ and secure parameterized SQL queries. These enhancements demonstrate my ability to use modern tools, frameworks, and development techniques, fully addressing Outcome 4.  
 <br>
-
 <div align="center"><img src="images/outcome5.png"></div>
 
 I demonstrated secure coding practices by adding input validation, strengthening exception handling, and documenting best practices for secure credential storage. Although the capstone environment uses hard-coded credentials for demonstration, I clearly note that production systems require environment variables or secure credential stores. This satisfies Outcome 5 by showing an understanding of potential vulnerabilities and how to mitigate them.  
