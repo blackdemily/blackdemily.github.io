@@ -52,8 +52,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
-         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
+         <li><a href="professional_self_assessment.html">Enhanced Source Code</a></li>
+         <li><a href="professional_self_assessment.html">Milestone Narrative: Software Design</a></li>
       </ul>
   </ul>
   <br>
@@ -65,8 +65,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
    <li><b>Links:</b>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
-         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
+         <li><a href="professional_self_assessment.html">Enhanced Source Code & Report</a></li>
+         <li><a href="professional_self_assessment.html">Milestone Narrative: Algorithms & Data Structures</a></li>
       </ul>
    </li>
   </ul>
@@ -79,8 +79,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
    <li><b>Links:</b></li>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
-         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
+         <li><a href="professional_self_assessment.html">Enhanced Database Artifact</a></li>
+         <li><a href="professional_self_assessment.html">Milestone Narrative: Databases</a></li>
       </ul>
   </ul>
  <br>   
@@ -90,7 +90,7 @@ This section explains how each artifact supports the CS program outcomes:<br>
 <ul>
    <li><b>Software Design & Engineering:</b> Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.</li>
    <li><b>Algorithms & Data Structures:</b> Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.</li>
-   <li><b>Databases:</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.</li>
+   <li><b>Databases:</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the <code>courses</code> table, and dynamic loading/saving of course data.</li>
 </ul>
 
 <img src="images/linebreak.png" width="100%">
