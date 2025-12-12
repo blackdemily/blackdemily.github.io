@@ -32,7 +32,7 @@ The capstone enhancements showcased in this ePortfolio demonstrate my mastery of
 <br>
 <div align="center"><img src="images/outcome1.png"></div>
 
-I strengthened my collaboration and communication skills throughout the program and during the capstone. In **Milestone One**, I performed a detailed code review that required analyzing another developer’s work, identifying improvement opportunities, and articulating recommendations clearly. This experience reflects the ability to contribute to team-based problem-solving and support organizational goals, which is central to Outcome 1.  
+I strengthened my collaboration and communication skills throughout the program and during the capstone. In **Milestone One**, I performed a detailed code review that required analyzing another developer’s work, identifying improvement opportunities, and articulating recommendations clearly. This experience reflects the ability to contribute to team-based problem-solving and support organizational goals, which is central to Outcome #1.  
 <br>
 <div align="center"><img src="images/outcome2.png"></div>
 
@@ -40,19 +40,19 @@ Professional communication was demonstrated through written enhancement narrativ
 <br>
 <div align="center"><img src="images/outcome3.png"></div>
 
-I demonstrated my understanding of algorithmic design and evaluation by enhancing my **CS-300 Data Structures Comparison** artifact. This included expanding the pseudocode, analyzing runtime performance, and comparing the trade-offs among vectors, hash tables, and binary search trees. This aligns with Outcome 3 by showcasing my ability to design and assess computing solutions using appropriate algorithmic techniques.  
+I demonstrated my understanding of algorithmic design and evaluation by enhancing my **CS-300 Data Structures Comparison** artifact. This included expanding the pseudocode, analyzing runtime performance, and comparing the trade-offs among vectors, hash tables, and binary search trees. This aligns with Outcome #3 by showcasing my ability to design and assess computing solutions using appropriate algorithmic techniques.  
 <br>
 <div align="center"><img src="images/outcome4.png"></div>
 
-A major artifact in this ePortfolio is the redesigned **Course Planner** application. I transformed it from a single-file program into a modular, multi-layered, object-oriented application. Later, I expanded it further by integrating a relational **MySQL database** using MySQL Connector/C++ and secure parameterized SQL queries. These enhancements demonstrate my ability to use modern tools, frameworks, and development techniques, fully addressing Outcome 4.  
+A major artifact in this ePortfolio is the redesigned **Course Planner** application. I transformed it from a single-file program into a modular, multi-layered, object-oriented application. Later, I expanded it further by integrating a relational **MySQL database** using MySQL Connector/C++ and secure parameterized SQL queries. These enhancements demonstrate my ability to use modern tools, frameworks, and development techniques, fully addressing Outcome #4.  
 <br>
 <div align="center"><img src="images/outcome5.png"></div>
 
-I demonstrated secure coding practices by adding input validation, strengthening exception handling, and documenting best practices for secure credential storage. Although the capstone environment uses hard-coded credentials for demonstration, I clearly note that production systems require environment variables or secure credential stores. This satisfies Outcome 5 by showing an understanding of potential vulnerabilities and how to mitigate them.  
+I demonstrated secure coding practices by adding input validation, strengthening exception handling, and documenting best practices for secure credential storage. Although the capstone environment uses hard-coded credentials for demonstration, I clearly note that production systems require environment variables or secure credential stores. This satisfies Outcome #5 by showing an understanding of potential vulnerabilities and how to mitigate them.  
 <br>
 <div align="center"><img src="images/final-reflection.png"></div>
 
-Across all milestones, I earned **100%**, reflecting mastery of both the technical and professional expectations of the CS program. The process of refining previous coursework, enhancing it with modern practices, and preparing it for public presentation helped me develop a professional identity grounded in clarity, intentionality, and analytical rigor.  
+Across all milestones, I earned **100%**, reflecting mastery of both the technical and professional expectations of the Computer Science program. The process of refining previous coursework, enhancing it with modern practices, and preparing it for public presentation helped me develop a professional identity grounded in clarity, intentionality, and analytical rigor.  
 
 This ePortfolio synthesizes my growth in software engineering, algorithms and data structures, and databases. It also reflects my readiness to enter the workforce as a data-driven professional capable of supporting business intelligence, analytics, and organizational decision-making. Completing the capstone has solidified my confidence and prepared me to move forward into a fulfilling career in **Data Analysis** or **Business Intelligence**.  
 
@@ -78,7 +78,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <div align="center"><img src="images/artifact1.png"></div>
 
 - **Artifact:** Refactored Course Planner application  
-- **Original Course:** CS-300: Data Structures and Algorithms  
+- **Original Course:** CS-300: Data Structures & Algorithms  
 - **Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.  
 - **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
 - **Links:**  
@@ -87,7 +87,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <div align="center"><img src="images/artifact2.png"></div>
 
 - **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)
-- **Original Course:** CS-300: Data Structures and Algorithms
+- **Original Course:** CS-300: Data Structures & Algorithms
 - **Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
 - **Outcome Focus:** Algorithmic thinking, time complexity, and choosing appropriate data structures.
 - **Links:**  
