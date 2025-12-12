@@ -38,6 +38,6 @@ This artifact directly supports the **Algorithms & Data Structures** program out
 <img src="../../images/supporting-materials-head.png">  
 
 - [View Original Data Structures Comparison (CS-300)](original/)
-- [View Enhanced Data Structures Analysis (CS-499)](enhanced/)
+- [View Enhanced Data Structures Analysis (CS-499) via OneDrive](https://1drv.ms/u/c/5f141bcee6d92f5b/IQDyxk2Bn_KqRIJUaUDUO5t2AZ2NFAqcXFQqHH66Vp6OHRM?e=RL2ays)
 - [Read Algorithms & Data Structures Enhancement Narrative (Milestone Three)](../../files/milestone_three.pdf)
 
