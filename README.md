@@ -29,19 +29,19 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 
 <div align="center"><img src="images/artifact1.png"></div>
 
-**Artifact:** Refactored Course Planner application
-**Original Course:** CS-300: Data Structures and Algorithms
-**Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.
-**Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
+**Artifact:** Refactored Course Planner application  
+**Original Course:** CS-300: Data Structures and Algorithms  
+**Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.  
+**Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
 **Links:**
 - [View Enhanced Course Planner Code (GitHub)](professional_self_assessment.html)
 - [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)
 
 <div align="center"><img src="images/artifact2.png"></div>
-<ul>
-   <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
-   <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>  
-   <li><b>Summary:</b> This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.</li>
+
+**Artifact:** Data structures performance comparison (vector, hash table, binary search tree)
+**Original Course:** CS-300: Data Structures and Algorithms
+**Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.</li>
    <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
    <li><b>Links:</b>
       <ul>
