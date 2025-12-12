@@ -58,7 +58,7 @@ This ePortfolio synthesizes my growth in software engineering, algorithms and da
 
 <img src="images/linebreak.png">
 
-<div align="center"><img src="images/artifacts-header.png"></div>
+<div align="center"><img src="images/enhanced-artifacts-header.png"></div>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 <br>
