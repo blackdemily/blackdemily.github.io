@@ -1,5 +1,4 @@
 <img src="../images/sde-artifact-head.png">
-
 *Refactored Course Planner Application*
 
 <img src="../images/original-artifact-head.png">  
