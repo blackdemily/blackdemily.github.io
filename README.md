@@ -5,7 +5,6 @@
   <a href="artifacts/databases.html">DATABASES</a>
 </div>
 
-<br>
 <img src="images/linebreak.png" width="100%">
 <img src="images/main-header.png">
 
