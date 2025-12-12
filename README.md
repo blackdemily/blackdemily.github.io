@@ -56,7 +56,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Links:**  
 -[View Course Planner with MySQL Integration (Enhanced Code)](professional_self_assessment.html)  
 -[Read Databases Enhancement Narrative (Milestone Four)](professional_self_assessment.html)  
-<br>
+
 <div align="center"><img src="images/outcomes-header.png"></div>
 This section explains how each artifact supports the CS program outcomes:
 
