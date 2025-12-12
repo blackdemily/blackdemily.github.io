@@ -1,26 +1,10 @@
-<p align="center">
-   <!-- Professional Self-Assessment -->
-  <a href="professional_self_assessment.html">
-    PROFESSIONAL SELF-ASSESSMENT
-  </a>
-|
-   
-   <!-- Software Design & Engineering -->
-  <a href="artifacts/software_design.html">
-    SOFTWARE DESIGN & ENGINEERING
-  </a>
-|
+<div align="center">
+  <a href="professional_self_assessment.html">PROFESSIONAL SELF-ASSESSMENT</a> |
+  <a href="artifacts/software_design.html">SOFTWARE DESIGN & ENGINEERING</a> |
+  <a href="artifacts/algorithms.html">DATA STRUCTURES & ALGORITHMS</a> |
+  <a href="artifacts/databases.html">DATABASES</a>
+</div>
 
-  <!-- Algorithms & Data Structures -->
-  <a href="artifacts/algorithms.html">
-    DATA STRUCTURES & ALGORITHMS
-  </a>
-|
-
-  <!-- Databases -->
-  <a href="artifacts/databases.html">
-    DATABASES
-  </a>
 <br>
 <img src="images/linebreak.png" width="100%">
 <img src="images/main-header.png">
