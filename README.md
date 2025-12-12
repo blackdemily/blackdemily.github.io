@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="artifacts/software_design.html">SOFTWARE DESIGN & ENGINEERING</a> |
+  <a href="artifacts/software_design/software_design.html">SOFTWARE DESIGN & ENGINEERING</a> |
   <a href="artifacts/algorithms.html">ALGORITHMS & DATA STRUCTURES</a> |
   <a href="artifacts/databases.html">DATABASES</a>
 </div>
