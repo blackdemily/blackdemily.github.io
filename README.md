@@ -35,8 +35,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
 **Links:**
 - [View Enhanced Course Planner Code (GitHub)](professional_self_assessment.html)
-- [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)
-
+- [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)  
+<br>
 <div align="center"><img src="images/artifact2.png"></div>
 
 **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)
@@ -45,8 +45,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Outcome Focus:** Algorithmic thinking, time complexity, and choosing appropriate data structures.
 **Links:**
 - [View Data Structures Comparison Code & Report](professional_self_assessment.html)
-- [Read Algorithms & Data Structures Narrative (Milestone Three)](professional_self_assessment.html)
-
+- [Read Algorithms & Data Structures Narrative (Milestone Three)](professional_self_assessment.html)  
+<br>
 <div align="center"><img src="images/artifact3.png"></div>
 
 **Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499) 
@@ -55,8 +55,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Outcome Focus:** Databases, relational schema design, secure parameterized queries, and data access integration.
 **Links:**
 -[View Course Planner with MySQL Integration (Enhanced Code)](professional_self_assessment.html)
--[Read Databases Enhancement Narrative (Milestone Four)](professional_self_assessment.html)
-  
+-[Read Databases Enhancement Narrative (Milestone Four)](professional_self_assessment.html)  
+<br>
 <div align="center"><img src="images/outcomes-header.png"></div>
 This section explains how each artifact supports the CS program outcomes:
 
