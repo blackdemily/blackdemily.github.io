@@ -52,8 +52,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
-   <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
-   <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
+         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
+         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
       </ul>
   </ul>
   <br>
@@ -65,8 +65,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
    <li><b>Links:</b>
       <ul>
-         <li>[Enhanced Source Code / Report](./artifacts/algorithms.md)</li>
-         <li>[Milestone Narrative – Algorithms & Data Structures](./artifacts/algorithms_narrative.pdf)</li>
+         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
+         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
       </ul>
    </li>
   </ul>
@@ -79,8 +79,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
    <li><b>Links:</b></li>
       <ul>
-         <li>[Enhanced Database Artifact (GitHub folder or ZIP)](./artifacts/databases.md)</li>
-         <li>[Milestone Four Narrative – Databases](./artifacts/databases_narrative.pdf)</li>
+         <li><a href="professional_self_assessment.html">Enhanced CoursePlanner</a></li>
+         <li><a href="professional_self_assessment.html">Milestone ## Narrative</a></li>
       </ul>
   </ul>
  <br>   
