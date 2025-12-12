@@ -100,5 +100,5 @@ This section explains how each artifact supports the CS program outcomes.
 
 <img src="images/linebreak.png">
 <div align="center"><img src="images/contact-header.png">  
-
+<br>
 <a href="mailto:blackdemily@gmail.com">EMAIL</a> | <a href="https://www.linkedin.com/in/blackdemily">LINKEDIN</a></div>
