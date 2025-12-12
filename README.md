@@ -43,7 +43,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Original Course:** CS-300: Data Structures and Algorithms
 **Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
 **Outcome Focus:** Algorithmic thinking, time complexity, and choosing appropriate data structures.
-**Links:**
+**Links:**  
 - [View Data Structures Comparison Code & Report](professional_self_assessment.html)
 - [Read Algorithms & Data Structures Narrative (Milestone Three)](professional_self_assessment.html)  
 <br>
