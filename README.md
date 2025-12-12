@@ -9,7 +9,7 @@
 
 <div align="center"><img src="images/main-header.png"></div>
 
-<div align="center"><img src="images/profile-image.png"></div>
+<div align="center"><img src="images/profile-image.png"></div>  
 
 <p align="center">Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 
@@ -44,37 +44,27 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
 **Outcome Focus:** Algorithmic thinking, time complexity, and choosing appropriate data structures.
 **Links:**
-- []()
+- [View Data Structures Comparison Code & Report](professional_self_assessment.html)
+- [Read Algorithms & Data Structures Narrative (Milestone Three)](professional_self_assessment.html)
 
-<a href="professional_self_assessment.html">View Data Structures Comparison Code & Report</a></li>
-         <li><a href="professional_self_assessment.html">Read Algorithms & Data Structures Narrative (Milestone Three)</a></li>
-      </ul>
-   </li>
-  </ul>
-<br>
-<p align="center"><img src="images/artifact3.png"></p>
-<ul>
-   <li><b>Artifact:</b> Course Planner with MySQL database support (CS-300 enhanced in CS-499)</li> 
-   <li><b>Original Course:</b> CS-300: Data Structures & Algorithms</li>
-   <li><b>Summary:</b> For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A <code>courses</code> table stores <code>course_id</code>, <code>title</code>, and <code>prereqs</code>. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.</li>
-   <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
-   <li><b>Links:</b></li>
-      <ul>
-         <li><a href="professional_self_assessment.html">View Course Planner with MySQL Integration (Enhanced Code)</a></li>
-         <li><a href="professional_self_assessment.html">Read Databases Enhancement Narrative (Milestone Four)</a></li>
-      </ul>
-  </ul>
- <br>   
-<p align="center"><img src="images/outcomes-header.png"><br></p>
-This section explains how each artifact supports the CS program outcomes:<br>
-<br>
-<ul>
-   <li><b>Software Design & Engineering:</b> Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.</li>
-   <li><b>Algorithms & Data Structures:</b> Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.</li>
-   <li><b>Databases:</b> Demonstrated via integration of MySQL with parameterized queries, schema design for the <code>courses</code> table, and dynamic loading/saving of course data.</li>
-</ul>
+<div align="center"><img src="images/artifact3.png"></div>
+
+**Artifact:** Course Planner with MySQL database support (CS-300 enhanced in CS-499) 
+**Original Course:** CS-300: Data Structures & Algorithms
+**Summary:** For Milestone Four, the Course Planner was extended to load and save course data using a MySQL relational database. A `courses` table stores `course_id`, `title`, and `prereqs`. The application uses MySQL Connector/C++ with parameterized SQL queries, and the user may choose to load data either from a CSV file or directly from the database.
+**Outcome Focus:** Databases, relational schema design, secure parameterized queries, and data access integration.
+**Links:**
+-[View Course Planner with MySQL Integration (Enhanced Code)](professional_self_assessment.html)
+-[Read Databases Enhancement Narrative (Milestone Four)](professional_self_assessment.html)
+  
+<div align="center"><img src="images/outcomes-header.png"></div>
+This section explains how each artifact supports the CS program outcomes:
+
+**Software Design & Engineering:** Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.
+**Algorithms & Data Structures:** Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.
+**Databases:** Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
 
 <img src="images/linebreak.png">
-<p align="center"><img src="images/contact-header.png"><BR>
-<br>
-<a href="mailto:blackdemily@gmail.com">EMAIL</a> | <a href="https://www.linkedin.com/in/blackdemily">LINKEDIN</a></p>
+<div align="center"><img src="images/contact-header.png">
+
+<a href="mailto:blackdemily@gmail.com">EMAIL</a> | <a href="https://www.linkedin.com/in/blackdemily">LINKEDIN</a></div>
