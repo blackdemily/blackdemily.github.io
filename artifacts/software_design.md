@@ -9,7 +9,6 @@ The original artifact was a Course Planner console application created for **CS-
 
 <br>
 <img src="../images/enhancements-head.png">
-
 For the capstone, the Course Planner was redesigned using object-oriented and modular software design principles. The application was refactored into multiple classes with clear responsibilities:
 
 - `Course`: Represents the course data model  
