@@ -21,11 +21,11 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 - Algorithms and Data Structures
 - Databases
 
-It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
+It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.  
 <br>
 <div align="center"><img src="images/artifacts-header.png"></div>
 
-Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
+Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
 <br>
 <div align="center"><img src="images/artifact1.png"></div>
 
