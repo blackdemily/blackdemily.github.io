@@ -9,7 +9,7 @@
 <br>
 <img src="../../images/original-artifact-head.png">  
 
-The original artifact was created for **CS-300: Data Structures and Algorithms** and focused on storing and retrieving course data using different data structures. The program included pseudocode-level logic for vectors, hash tables, and binary search trees, but lacked detailed performance analysis and structured comparison of algorithmic trade-offs.
+The original artifact was created for **CS-300: Data Structures & Algorithms** and focused on storing and retrieving course data using different data structures. The program included pseudocode-level logic for vectors, hash tables, and binary search trees, but lacked detailed performance analysis and structured comparison of algorithmic trade-offs.
 
 <br>
 <img src="../../images/enhancements-head.png">  
