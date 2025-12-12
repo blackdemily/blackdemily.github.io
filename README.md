@@ -32,7 +32,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Artifact:** Refactored Course Planner application  
 **Original Course:** CS-300: Data Structures and Algorithms  
 **Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.  
-**Outcome Focus:** Software design, modular architecture, and clean separation of concerns.
+**Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
 **Links:**
 - [View Enhanced Course Planner Code (GitHub)](professional_self_assessment.html)
 - [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)
@@ -41,11 +41,12 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 
 **Artifact:** Data structures performance comparison (vector, hash table, binary search tree)
 **Original Course:** CS-300: Data Structures and Algorithms
-**Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.</li>
-   <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
-   <li><b>Links:</b>
-      <ul>
-         <li><a href="professional_self_assessment.html">View Data Structures Comparison Code & Report</a></li>
+**Summary:** This artifact analyzes how different data structures perform for loading, searching, and traversing course data. The enhancement work includes fleshed-out pseudocode, runtime measurements, and reflection on when each data structure is most appropriate.
+**Outcome Focus:** Algorithmic thinking, time complexity, and choosing appropriate data structures.
+**Links:**
+- []()
+
+<a href="professional_self_assessment.html">View Data Structures Comparison Code & Report</a></li>
          <li><a href="professional_self_assessment.html">Read Algorithms & Data Structures Narrative (Milestone Three)</a></li>
       </ul>
    </li>
