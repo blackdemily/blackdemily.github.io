@@ -37,7 +37,8 @@ This artifact supports the **Databases** program outcome by demonstrating the ab
 <br>
 <img src="../../images/supporting-materials-head.png">  
 
-- [View Course Planner with MySQL Integration (Enhanced Code)](../path-to-code-folder/)
-- [Read Databases Enhancement Narrative (Milestone Four)](../path-to-narrative/)
+- [View Original Course Planner (CSV-Based Version, CS-300)](original/)
+- [View Enhanced Course Planner with MySQL Integration (CS-499)](enhanced/)
+- [Read Databases Enhancement Narrative (Milestone Four)](../../files/milestone_four.pdf)
 
 
