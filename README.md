@@ -24,10 +24,9 @@ It also connects these artifacts to my long-term goals as an aspiring **Data Ana
 
 <img src="images/linebreak.png">
 
-<div align="center">
-<img src="images/self-assessment.png"><br>  
-*CS-499 Computer Science Capstone* | *Emily Black*  
-</div>
+<div align="center"><img src="images/self-assessment.png"></div><br>  
+<div align="center">*CS-499 Computer Science Capstone* | *Emily Black*</div> 
+
 Throughout my academic journey in the Computer Science program at Southern New Hampshire University, I have grown significantly both technically and professionally. When I began the program, I expected to pursue software engineering or full-stack development. However, as I progressed, especially after excelling in Applied Statistics I and II, I discovered my strengths and passions lie in data-focused roles. I deeply enjoy analyzing information, uncovering insights, and helping others make informed decisions. This led me to pursue a long-term career goal of becoming a **Data Analyst** or **Business Intelligence Analyst**, roles that blend analytical reasoning with organizational impact.  
   
 The capstone enhancements showcased in this ePortfolio demonstrate my mastery of the five Computer Science Program Outcomes and reflect the culmination of everything I have learned throughout my degree. Revisiting previous coursework, redesigning artifacts, and applying feedback allowed me to grow into a more intentional and capable computing professional.  
