@@ -82,7 +82,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - **Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.  
 - **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
 - **Links:**
-  - [View Enhanced Course Planner Code](artifacts/software_design.html)
+  - [View Enhanced Course Planner Code](artifacts/software_design/software_design.html)
   - [Read Software Design Enhancement Narrative (Milestone Two)](artifacts/software_design.html)
  <br>
 <div align="center"><img src="images/artifact2.png"></div>
