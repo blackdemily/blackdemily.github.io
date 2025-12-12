@@ -61,9 +61,9 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 
 This section explains how each artifact supports the CS program outcomes:
 
-**Software Design & Engineering:** Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.  
-**Algorithms & Data Structures:** Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.  
-**Databases:** Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
+- **Software Design & Engineering:** Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.  
+- **Algorithms & Data Structures:** Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.  
+- **Databases:** Demonstrated via integration of MySQL with parameterized queries, schema design for the `courses` table, and dynamic loading/saving of course data.
 
 <img src="images/linebreak.png">
 <div align="center"><img src="images/contact-header.png">
