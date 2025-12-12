@@ -55,7 +55,6 @@ I demonstrated secure coding practices by adding input validation, strengthening
 Across all milestones, I earned **100%**, reflecting mastery of both the technical and professional expectations of the CS program. The process of refining previous coursework, enhancing it with modern practices, and preparing it for public presentation helped me develop a professional identity grounded in clarity, intentionality, and analytical rigor.  
 
 This ePortfolio synthesizes my growth in software engineering, algorithms and data structures, and databases. It also reflects my readiness to enter the workforce as a data-driven professional capable of supporting business intelligence, analytics, and organizational decision-making. Completing the capstone has solidified my confidence and prepared me to move forward into a fulfilling career in **Data Analysis** or **Business Intelligence**.  
-<br>
 
 <img src="images/linebreak.png">
 
