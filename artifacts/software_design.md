@@ -1,6 +1,4 @@
-<div align="center">
-  [BACK TO HOME](https://blackdemily.github.io/)
-</div>
+<div align="center"><a href="../README.html">BACK TO HOME</a></div>
 
 <img src="../images/linebreak.png">
 
