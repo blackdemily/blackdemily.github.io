@@ -58,6 +58,19 @@ This ePortfolio synthesizes my growth in software engineering, algorithms and da
 
 <img src="images/linebreak.png">
 
+<div align="center"><img src="images/code-review-header.png"></div>
+
+As part of the CS-499 capstone, I conducted a comprehensive code review of my selected artifacts, evaluating software design decisions, algorithmic efficiency, and database integration strategies. This review informed the enhancements implemented throughout the capstone.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ajQ-ItbwrZI"
+title="CS-499 Code Review"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+<img src="images/linebreak.png">
+
 <div align="center"><img src="images/enhanced-artifacts-header.png"></div>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
