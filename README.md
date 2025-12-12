@@ -7,9 +7,9 @@
 
 <img src="images/linebreak.png">
 
-<p align="center"><img src="images/main-header.png"><p align="center">
+<div align="center"><img src="images/main-header.png"></div>
 
-<p align="center"><img src="images/profile-image.png"></p>
+<div align="center"><img src="images/profile-image.png"></div>
 
 <p align="center">Hello! I'm Emily, and I’m currently completing my B.S. in Computer Science at SNHU, graduating in December 2025. I discovered a strong interest in data analysis and business intelligence through my coursework, and I’m excited to pursue a career where I can transform data into insights that support better decision-making.</p>
 
@@ -23,7 +23,7 @@ Welcome to my CS-499 Computer Science Capstone ePortfolio. This portfolio showca
 
 It also connects these artifacts to my long-term goals as an aspiring **Data Analyst** and **Business Intelligence Analyst**.
 
-<p align="center"><img src="images/artifacts-header.png"></p>
+<div align="center"><img src="images/artifacts-header.png"></div>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.
 
@@ -37,7 +37,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 - [View Enhanced Course Planner Code (GitHub)](professional_self_assessment.html)
 - [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)
 
-<p align="center"><img src="images/artifact2.png"></p>
+<div align="center"><img src="images/artifact2.png"></div>
 <ul>
    <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
    <li><b>Original Course:</b> CS-300: Data Structures and Algorithms</li>  
