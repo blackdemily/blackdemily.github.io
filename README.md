@@ -52,8 +52,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Software design, modular architecture, and clean separation of concerns.</li>
    <li><b>Links:</b></li>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced Source Code</a></li>
-         <li><a href="professional_self_assessment.html">Milestone Narrative: Software Design</a></li>
+         <li><a href="professional_self_assessment.html">View Enhanced Course Planner Code (GitHub)</a></li>
+         <li><a href="professional_self_assessment.html">Read Software Design Enhancement Narrative (Milestone Two)</a></li>
       </ul>
   </ul>
   <br>
@@ -65,8 +65,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Algorithmic thinking, time complexity, and choosing appropriate data structures.</li>
    <li><b>Links:</b>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced Source Code & Report</a></li>
-         <li><a href="professional_self_assessment.html">Milestone Narrative: Algorithms & Data Structures</a></li>
+         <li><a href="professional_self_assessment.html">View Data Structures Comparison Code & Report</a></li>
+         <li><a href="professional_self_assessment.html">Read Algorithms & Data Structures Narrative (Milestone Three)</a></li>
       </ul>
    </li>
   </ul>
@@ -79,8 +79,8 @@ Below are the three main enhanced artifacts aligned with the capstone categories
    <li><b>Outcome Focus:</b> Databases, relational schema design, secure parameterized queries, and data access integration.</li>
    <li><b>Links:</b></li>
       <ul>
-         <li><a href="professional_self_assessment.html">Enhanced Database Artifact</a></li>
-         <li><a href="professional_self_assessment.html">Milestone Narrative: Databases</a></li>
+         <li><a href="professional_self_assessment.html">View Course Planner with MySQL Integration (Enhanced Code)</a></li>
+         <li><a href="professional_self_assessment.html">Read Databases Enhancement Narrative (Milestone Four)</a></li>
       </ul>
   </ul>
  <br>   
