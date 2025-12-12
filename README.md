@@ -33,7 +33,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 **Original Course:** CS-300: Data Structures and Algorithms  
 **Summary:** The original single-file Course Planner was redesigned into a modular, multi-layered application with separate classes for the model (`Course`), data access (`CourseRepository`), service logic (`CourseService`), and user interface (`MenuUI`). This refactor improves readability, maintainability, and scalability.  
 **Outcome Focus:** Software design, modular architecture, and clean separation of concerns.  
-**Links:**
+**Links:**  
 - [View Enhanced Course Planner Code (GitHub)](professional_self_assessment.html)
 - [Read Software Design Enhancement Narrative (Milestone Two)](professional_self_assessment.html)
 
