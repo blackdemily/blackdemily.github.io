@@ -42,5 +42,6 @@ This artifact primarily supports the **Software Design & Engineering** program o
 <br>
 <img src="../../images/supporting-materials-head.png">  
 
-- [View Enhanced Course Planner Source Code (GitHub)](../path-to-code-folder/)
-- [Read Software Design Enhancement Narrative (Milestone Two)](../path-to-narrative/)
+- [View Original Course Planner Source Code (CS-300)](original/)
+- [View Enhanced Course Planner Source Code (CS-499)](enhanced/)
+- [Read Software Design Enhancement Narrative (Milestone Two)](../../files/milestone_two.pdf)
