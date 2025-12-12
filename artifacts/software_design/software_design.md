@@ -9,7 +9,7 @@
 <br>
 <img src="../../images/original-artifact-head.png">  
 
-The original artifact was a Course Planner console application created for **CS-300: Data Structures and Algorithms**. The program loaded course data from a CSV file and allowed users to view a sorted list of courses and display course prerequisites. The original implementation was contained in a single source file with tightly coupled logic.  
+The original artifact was a Course Planner console application created for **CS-300: Data Structures & Algorithms**. The program loaded course data from a CSV file and allowed users to view a sorted list of courses and display course prerequisites. The original implementation was contained in a single source file with tightly coupled logic.  
 
 <br>
 <img src="../../images/enhancements-head.png">  
