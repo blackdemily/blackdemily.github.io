@@ -1,6 +1,6 @@
 <div align="center"><a href="https://blackdemily.github.io">BACK TO HOME</a></div>
 
-<img src=".../images/linebreak.png">
+<img src="../artifacts/images/linebreak.png">
 
 <img src="../images/sde-artifact-head.png">
 
