@@ -56,6 +56,9 @@ Across all milestones, I earned **100%**, reflecting mastery of both the technic
 
 This ePortfolio synthesizes my growth in software engineering, algorithms and data structures, and databases. It also reflects my readiness to enter the workforce as a data-driven professional capable of supporting business intelligence, analytics, and organizational decision-making. Completing the capstone has solidified my confidence and prepared me to move forward into a fulfilling career in **Data Analysis** or **Business Intelligence**.  
 <br>
+
+<img src="images/linebreak.png">
+
 <div align="center"><img src="images/artifacts-header.png"></div>
 
 Below are the three main enhanced artifacts aligned with the capstone categories. Each artifact includes a summary, the associated outcome, and links to code and reflections.  
