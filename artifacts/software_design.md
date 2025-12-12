@@ -6,7 +6,7 @@
 
 The original artifact was a Course Planner console application created for **CS-300: Data Structures and Algorithms**. The program loaded course data from a CSV file and allowed users to view a sorted list of courses and display course prerequisites. The original implementation was contained in a single source file with tightly coupled logic.  
 
-<img src="../images/enhanced-artifacts-header.png">
+<img src="../images/enhancements-header.png">
 <br>
 
 For the capstone, the Course Planner was redesigned using object-oriented and modular software design principles. The application was refactored into multiple classes with clear responsibilities:
