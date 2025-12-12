@@ -1,3 +1,9 @@
+<div align="center">
+  [BACK TO HOME](https://blackdemily.github.io/)
+</div>
+
+<img src="../images/linebreak.png">
+
 <img src="../images/sde-artifact-head.png">
 
 *Refactored Course Planner Application*
