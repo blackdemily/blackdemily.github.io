@@ -94,7 +94,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
 <br>
 <div align="center"><img src="images/outcomes-header.png"></div>
 
-This section explains how each artifact supports the CS program outcomes.
+This section explains how each artifact supports the Computer Science program outcomes.
 
 - **Software Design & Engineering:** Demonstrated through modular design, layered architecture, and clean interfaces in the Course Planner refactor.  
 - **Algorithms & Data Structures:** Demonstrated by comparing and analyzing multiple data structures for course storage and retrieval, with attention to runtime performance and trade-offs.  
