@@ -21,7 +21,6 @@ For the capstone, the Course Planner was redesigned using object-oriented and mo
 Additional enhancements include improved input validation, structured exception handling, and expanded inline documentation to improve maintainability and readability.
 
 <div align="center"><img src="../images/skills-tools-demonstrated-header.png"></div>
-<br>
 
 This artifact demonstrates the following skills and technologies:
 
