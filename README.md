@@ -56,7 +56,7 @@ Below are the three main enhanced artifacts aligned with the capstone categories
          <li><a href="professional_self_assessment.html">Read Software Design Enhancement Narrative (Milestone Two)</a></li>
       </ul>
   </ul>
-  <br>
+
 <p align="center"><img src="images/artifact2.png"></p>
 <ul>
    <li><b>Artifact:</b> Data structures performance comparison (vector, hash table, binary search tree)</li>
